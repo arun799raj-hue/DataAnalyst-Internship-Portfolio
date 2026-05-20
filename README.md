@@ -3,7 +3,9 @@
 🚀 Overview
 This repository is a master portfolio showcasing all tasks completed during my Data Analyst Internship at ApexPlanet Software Pvt. Ltd.
 It demonstrates end-to-end skills in data cleaning, exploratory data analysis, dashboarding, data storytelling, and business analysis.
+
 📌 Internship Tasks Completed
+
 🔹 Task 1 – Data Immersion & Wrangling
 Data cleaning and preprocessing
 Missing value handling
@@ -16,7 +18,7 @@ Descriptive statistics
 Category & region analysis
 SQL/business questions
 Dashboard mock-up
-🔗 Repository Link: [Paste Task 2 Repo Link]
+🔗 Repository Link: [https://github.com/arun799raj-hue/EDA-Business-Intelligence-Project.git]
 
 🔹 Task 3 – Interactive Dashboarding
 Built Power BI dashboard
